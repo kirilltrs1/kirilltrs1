@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi! I'm Kirill 👋
 
-<!--
-**kirilltrs1/kirilltrs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner frontend developer with a legal background. I'm learning to create beautiful and functional web interfaces using HTML, CSS and JavaScript.
 
-Here are some ideas to get you started:
+🔧 Currently learning: React, JavaScript, Python 
+📚 Taking the course: [Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+💡 Interested in: finance, law, IT, modern tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Projects
+
+| to be continued....|
+|----------|----------|------------|--------|
+
+
+## 📫 Contact me
+
+- Telegram: @ejafl
+- Email: kirill.tarasyuk@outlook.com
+- LinkedIn: www.linkedin.com/in/kirill-tarasyuk-282826251
+
+---
